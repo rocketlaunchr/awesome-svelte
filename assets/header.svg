@@ -1,0 +1,151 @@
+
+<svg fill="none" viewBox="0 0 1000 305" width="1000" height="305" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				/* Cool infinite background scrolling animation.
+				 * Twitter: @kootoopas
+				 */
+
+				/* Background data (Original source: https://subtlepatterns.com/grid-me/) */
+				/* Animations */
+				@-webkit-keyframes bg-scrolling-reverse {
+				  100% {
+				    background-position: 50px 50px;
+				  }
+				}
+				@-moz-keyframes bg-scrolling-reverse {
+				  100% {
+				    background-position: 50px 50px;
+				  }
+				}
+				@-o-keyframes bg-scrolling-reverse {
+				  100% {
+				    background-position: 50px 50px;
+				  }
+				}
+				@keyframes bg-scrolling-reverse {
+				  100% {
+				    background-position: 50px 50px;
+				  }
+				}
+				@-webkit-keyframes bg-scrolling {
+				  0% {
+				    background-position: 50px 50px;
+				  }
+				}
+				@-moz-keyframes bg-scrolling {
+				  0% {
+				    background-position: 50px 50px;
+				  }
+				}
+				@-o-keyframes bg-scrolling {
+				  0% {
+				    background-position: 50px 50px;
+				  }
+				}
+				@keyframes bg-scrolling {
+				  0% {
+				    background-position: 50px 50px;
+				  }
+				}
+
+				.container {
+				  color: #f45fa8;
+				  /* img size is 50x50 */
+				  background: url('data:image/png;base64,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') repeat 0 0;
+				  -webkit-animation: bg-scrolling-reverse 0.92s infinite;
+				  /* Safari 4+ */
+				  -moz-animation: bg-scrolling-reverse 0.92s infinite;
+				  /* Fx 5+ */
+				  -o-animation: bg-scrolling-reverse 0.92s infinite;
+				  /* Opera 12+ */
+				  animation: bg-scrolling-reverse 0.92s infinite;
+				  /* IE 10+ */
+				  -webkit-animation-timing-function: linear;
+				  -moz-animation-timing-function: linear;
+				  -o-animation-timing-function: linear;
+				  animation-timing-function: linear;
+
+				  display: flex;
+				  align-items: center;
+				  justify-content: center;
+				}
+
+				.loader {
+				  max-width: 15rem;
+				  width: 100%;
+				  height: auto;
+				  stroke-linecap: round;
+				}
+
+				circle {
+				  fill: none;
+				  stroke-width: 3.5;
+				  -webkit-animation-name: preloader;
+				          animation-name: preloader;
+				  -webkit-animation-duration: 3s;
+				          animation-duration: 3s;
+				  -webkit-animation-iteration-count: infinite;
+				          animation-iteration-count: infinite;
+				  -webkit-animation-timing-function: ease-in-out;
+				          animation-timing-function: ease-in-out;
+				  transform-origin: 170px 170px;
+				  will-change: transform;
+				}
+				circle:nth-of-type(1) {
+				  stroke-dasharray: 550px;
+				}
+				circle:nth-of-type(2) {
+				  stroke-dasharray: 500px;
+				}
+				circle:nth-of-type(3) {
+				  stroke-dasharray: 450px;
+				}
+				circle:nth-of-type(4) {
+				  stroke-dasharray: 300px;
+				}
+				circle:nth-of-type(1) {
+				  -webkit-animation-delay: -0.15s;
+				          animation-delay: -0.15s;
+				}
+				circle:nth-of-type(2) {
+				  -webkit-animation-delay: -0.3s;
+				          animation-delay: -0.3s;
+				}
+				circle:nth-of-type(3) {
+				  -webkit-animation-delay: -0.45s;
+				          animation-delay: -0.45s;
+				}
+				circle:nth-of-type(4) {
+				  -webkit-animation-delay: -0.6s;
+				          animation-delay: -0.6s;
+				}
+
+				@-webkit-keyframes preloader {
+				  50% {
+				    transform: rotate(360deg);
+				  }
+				}
+
+				@keyframes preloader {
+				  50% {
+				    transform: rotate(360deg);
+				  }
+				}
+
+				.sunnies { font-size: 120px; fill: red; }
+			</style>
+			<div class="container">
+				<svg class="loader" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 340">
+					 <circle cx="170" cy="170" r="135" stroke="#ff3e00"/>
+					 <circle cx="170" cy="170" r="110" stroke="#4a4a55"/>
+					 <circle cx="170" cy="170" r="85" stroke="#ff3e00"/>
+					 <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" class="sunnies">🕶️</text>
+				</svg>
+				<svg xmlns="http://www.w3.org/2000/svg" width="406" height="139" viewBox="0 0 406 139"><title>svelte-logotype</title><path d="M59.4561,100.3382a24.08,24.08,0,0,1-13.72-3.8769,19.8715,19.8715,0,0,1-8.0107-10.6094l8.3515-3.0683a15.4054,15.4054,0,0,0,5.4541,6.6044,14.3656,14.3656,0,0,0,8.2657,2.4288,12.1373,12.1373,0,0,0,7.8818-2.3858,8.2746,8.2746,0,0,0,2.94-6.8174,7.4559,7.4559,0,0,0-.8095-3.4511,10.3225,10.3225,0,0,0-1.8321-2.6,12.3611,12.3611,0,0,0-3.1533-2.0879q-2.1314-1.0635-3.5361-1.6192-1.4062-.5521-4.1328-1.4912-3.41-1.1924-5.1133-1.874a38.4516,38.4516,0,0,1-4.4736-2.2588,16.5374,16.5374,0,0,1-4.1758-3.1523,15.2908,15.2908,0,0,1-2.5137-4.1338,14.77,14.77,0,0,1,4.0049-16.7871q5.1138-4.5162,13.8906-4.5166,7.3272,0,12.0576,3.2382a15.6575,15.6575,0,0,1,6.3487,8.6075L69,53.2142a9.5238,9.5238,0,0,0-3.9629-4.3887,13.31,13.31,0,0,0-6.9443-1.6621,10.703,10.703,0,0,0-6.6895,1.875,6.2891,6.2891,0,0,0-2.4287,5.2832,5.5132,5.5132,0,0,0,1.874,4.0909,12.8853,12.8853,0,0,0,3.92,2.6416q2.0463.8524,6.2216,2.3007,2.5548.939,3.791,1.4063t3.6221,1.5762A24.997,24.997,0,0,1,72.0674,68.34,32.1346,32.1346,0,0,1,75.05,70.7689a12.7235,12.7235,0,0,1,2.6,3.11,17.39,17.39,0,0,1,1.5332,3.8339,17.5828,17.5828,0,0,1,.64,4.8155q0,8.3524-5.71,13.08Q68.4024,100.3388,59.4561,100.3382Zm54.622-1.0224L93.626,39.6644h9.5449L116.72,81.25a64.4659,64.4659,0,0,1,1.875,6.8173A64.0335,64.0335,0,0,1,120.47,81.25l13.3789-41.586h9.459L122.94,99.3158Zm47.294,0V39.6644h36.9843V48.016h-28.121V64.3773h18.15v8.3516h-18.15V90.9642h29.9951v8.3516Zm61.44,0V39.6644h8.8633v51.13h29.1435v8.5215Zm71.41-51.13v51.13h-8.8633v-51.13H268.4873V39.6644h42.6074v8.5215Zm35.1933,51.13V39.6644H366.4V48.016H338.2793V64.3773h18.15v8.3516h-18.15V90.9642h29.9951v8.3516Z" style="fill:#4a4a55"/></svg>
+			</div>
+		</div>
+	</foreignObject>
+
+</svg>
