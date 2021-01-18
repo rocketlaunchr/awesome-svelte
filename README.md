@@ -182,7 +182,9 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 
 ### Carousel
 
+- [![](https://img.shields.io/github/stars/Valexr/svelte-slidy?label=⭐&logo=_&style=social)](https://github.com/Valexr/svelte-slidy) [Valexr/svelte-slidy](https://github.com/Valexr/svelte-slidy)
 - [![](https://img.shields.io/github/stars/sciactive/multicarousel?label=⭐&logo=_&style=social)](https://github.com/sciactive/multicarousel) [sciactive/multicarousel](https://github.com/sciactive/multicarousel) — free multiple item JavaScript carousel.
+
 
 ### Buttons
 
