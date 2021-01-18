@@ -357,7 +357,7 @@ _Let the user add multiple tags in a single input_
 
 #### Drag and Drop
 
-
+- [![](https://img.shields.io/github/stars/isaacHagoel/svelte-dnd-action?label=⭐&logo=_&style=social)](https://github.com/isaacHagoel/svelte-dnd-action) [isaacHagoel/svelte-dnd-action](https://github.com/isaacHagoel/svelte-dnd-action)
 
 #### Sortable List
 
@@ -640,8 +640,9 @@ _Internationalization / L10n / localization / translation_
 
 ### Inspect
 
+- [![](https://img.shields.io/github/stars/RedHatter/svelte-devtools?label=⭐&logo=_&style=social)](https://github.com/RedHatter/svelte-devtools) [RedHatter/svelte-devtools](https://github.com/RedHatter/svelte-devtools) — Inspect the state and component hierarchies in the Developer Tools.
 - [![](https://img.shields.io/github/stars/qutran/svelte-inspector?label=⭐&logo=_&style=social)](https://github.com/qutran/svelte-inspector) [qutran/svelte-inspector](https://github.com/qutran/svelte-inspector) — Development helper for inspecting and opening svelte components in your editor.
-
+- [svelte-reactive-debugger](https://addons.mozilla.org/en-US/firefox/addon/svelte-reactive-debugger) — Svelte Reactive Debugger.
 
 ### Miscellaneous
 
