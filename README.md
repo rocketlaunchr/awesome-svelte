@@ -223,7 +223,7 @@ _Ways to navigate views_
 
 ### Audio / Video
 
-
+- [![](https://img.shields.io/github/stars/meigo/svelte-video-player?label=⭐&logo=_&style=social)](https://github.com/meigo/svelte-video-player) [meigo/svelte-video-player](https://github.com/meigo/svelte-video-player) — Video playback interface.
 
 ### Map
 
