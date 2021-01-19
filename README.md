@@ -107,6 +107,7 @@
     - [Lazy Load](#lazy-load)
   - [App Size](#app-size)
   - [Server-Side Rendering](#server-side-rendering)
+- [State Management](#state-management)
 - [Dev Tools](#dev-tools)
   - [Test](#test)
   - [Inspect](#inspect-1)
@@ -633,6 +634,8 @@ _Internationalization / L10n / localization / translation_
 
 ### Server-Side Rendering
 
+## State Management
+- [![](https://img.shields.io/github/stars/dmaevsky/tinyx?label=⭐&logo=_&style=social)](https://github.com/dmaevsky/tinyx) [dmaevsky/tinyx](https://github.com/dmaevsky/tinyx) — A tiny state manager for big applications.
 
 
 ## Dev Tools
