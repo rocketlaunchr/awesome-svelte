@@ -293,7 +293,7 @@ _Date picker / time picker / datetime picker / date range picker_
 
 - [![](https://img.shields.io/github/stars/6eDesign/svelte-calendar?label=⭐&logo=_&style=social)](https://github.com/6eDesign/svelte-calendar) [6eDesign/svelte-calendar](https://github.com/6eDesign/svelte-calendar) — A lightweight datepicker with neat animations and a unique UX.
 - [![](https://img.shields.io/github/stars/YogliB/svelte-fullcalendar?label=⭐&logo=_&style=social)](https://github.com/YogliB/svelte-fullcalendar) [YogliB/svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar) — A Svelte component wrapper around FullCalendar.
-
+- [![](https://img.shields.io/github/stars/SharifClick/svelte-touch-datepicker?label=⭐&logo=_&style=social)](https://github.com/SharifClick/svelte-touch-datepicker) [SharifClick/svelte-touch-datepicker](https://github.com/SharifClick/svelte-touch-datepicker)
 
 #### Emoji picker
 
