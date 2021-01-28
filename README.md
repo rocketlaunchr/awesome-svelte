@@ -246,15 +246,14 @@ _Display images / photos_
 - [![](https://img.shields.io/github/stars/johnwalley/compare-image-slider?label=⭐&logo=_&style=social)](https://github.com/johnwalley/compare-image-slider) [johnwalley/compare-image-slider](https://github.com/johnwalley/compare-image-slider) — Compare two images with a slider.
 
 
-
-
-
-
 ### Icons
 
 _Display icons / icon set / emojis_
 
-
+- [![](https://img.shields.io/github/stars/RobBrazier/svelte-awesome?label=⭐&logo=_&style=social)](https://github.com/RobBrazier/svelte-awesome) [RobBrazier/svelte-awesome](https://github.com/RobBrazier/svelte-awesome) — Awesome SVG icon component, built with Font Awesome icons.
+- [![](https://img.shields.io/github/stars/Cweili/svelte-fa?label=⭐&logo=_&style=social)](https://github.com/Cweili/svelte-fa) [Cweili/svelte-fa](https://github.com/Cweili/svelte-fa) — Tiny FontAwesome 5.
+- [![](https://img.shields.io/github/stars/AnxiousDarkly/svelte-icons?label=⭐&logo=_&style=social)](https://github.com/AnxiousDarkly/svelte-icons) [AnxiousDarkly/svelte-icons](https://github.com/AnxiousDarkly/svelte-icons)
+- [![](https://img.shields.io/github/stars/beyonk-adventures/svelte-simple-icons?label=⭐&logo=_&style=social)](https://github.com/beyonk-adventures/svelte-simple-icons) [beyonk-adventures/svelte-simple-icons](https://github.com/beyonk-adventures/svelte-simple-icons) — Simple Brand Icons.
 
 ### Paginator
 
