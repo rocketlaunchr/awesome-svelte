@@ -571,7 +571,7 @@ _Component properties asynchronously fetched over the network_
 
 ### Communication with server
 
-
+- [![](https://img.shields.io/github/stars/SvelteStack/svelte-query?label=⭐&logo=_&style=social)](https://github.com/SvelteStack/svelte-query) [SvelteStack/svelte-query](https://github.com/SvelteStack/svelte-query) — Performant and powerful remote data synchronization.
 
 ### CSS / Style
 
@@ -650,9 +650,13 @@ _Internationalization / L10n / localization / translation_
 
 ### Miscellaneous
 
-
+- [![](https://img.shields.io/github/stars/sveltejs/prettier-plugin-svelte?label=⭐&logo=_&style=social)](https://github.com/sveltejs/prettier-plugin-svelte) [sveltejs/prettier-plugin-svelte](https://github.com/sveltejs/prettier-plugin-svelte) — Format your svelte components using prettier.
+- [![](https://img.shields.io/github/stars/pngwn/svelte-adapter?label=⭐&logo=_&style=social)](https://github.com/pngwn/svelte-adapter) [pngwn/svelte-adapter](https://github.com/pngwn/svelte-adapter) — Use Svelte components within Vue and React applications.
+- [![](https://img.shields.io/github/stars/AlexxNB/svelte-docs?label=⭐&logo=_&style=social)](https://github.com/AlexxNB/svelte-docs) [AlexxNB/svelte-docs](https://github.com/AlexxNB/svelte-docs) — Write documentation for your Svelte components.
 
 ## Miscellaneous
+
+
 
 
 
