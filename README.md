@@ -242,9 +242,8 @@ _Display time / date / age_
 _Display images / photos_
 
 - [![](https://img.shields.io/github/stars/matyunya/svelte-image?label=⭐&logo=_&style=social)](https://github.com/matyunya/svelte-image) [matyunya/svelte-image](https://github.com/matyunya/svelte-image) — Image (pre)processing with Sharp.
-- [![](https://img.shields.io/github/stars/stephane-vanraes/svelte-multitoneimage?label=⭐&logo=_&style=social)](https://github.com/stephane-vanraes/svelte-multitoneimage) [stephane-vanraes/svelte-multitoneimage](https://github.com/stephane-vanraes/svelte-multitoneimage) — A simple image renderer to apply duotone effects.
 - [![](https://img.shields.io/github/stars/johnwalley/compare-image-slider?label=⭐&logo=_&style=social)](https://github.com/johnwalley/compare-image-slider) [johnwalley/compare-image-slider](https://github.com/johnwalley/compare-image-slider) — Compare two images with a slider.
-
+- [![](https://img.shields.io/github/stars/stephane-vanraes/svelte-multitoneimage?label=⭐&logo=_&style=social)](https://github.com/stephane-vanraes/svelte-multitoneimage) [stephane-vanraes/svelte-multitoneimage](https://github.com/stephane-vanraes/svelte-multitoneimage) — A simple image renderer to apply duotone effects.
 
 ### Icons
 
@@ -641,6 +640,7 @@ _Internationalization / L10n / localization / translation_
 
 ### Test
 
+- [![](https://img.shields.io/github/stars/vidigas/svelte-feature-flag?label=⭐&logo=_&style=social)](https://github.com/vidigas/svelte-feature-flag) [vidigas/svelte-feature-flag](https://github.com/vidigas/svelte-feature-flag) — Feature flags (toggle) module.
 
 ### Inspect
 
@@ -651,12 +651,14 @@ _Internationalization / L10n / localization / translation_
 ### Miscellaneous
 
 - [![](https://img.shields.io/github/stars/sveltejs/prettier-plugin-svelte?label=⭐&logo=_&style=social)](https://github.com/sveltejs/prettier-plugin-svelte) [sveltejs/prettier-plugin-svelte](https://github.com/sveltejs/prettier-plugin-svelte) — Format your svelte components using prettier.
+- [![](https://img.shields.io/github/stars/Rich-Harris/react-svelte?label=⭐&logo=_&style=social)](https://github.com/Rich-Harris/react-svelte) [Rich-Harris/react-svelte](https://github.com/Rich-Harris/react-svelte) — Use Svelte components inside a React app.
 - [![](https://img.shields.io/github/stars/pngwn/svelte-adapter?label=⭐&logo=_&style=social)](https://github.com/pngwn/svelte-adapter) [pngwn/svelte-adapter](https://github.com/pngwn/svelte-adapter) — Use Svelte components within Vue and React applications.
 - [![](https://img.shields.io/github/stars/AlexxNB/svelte-docs?label=⭐&logo=_&style=social)](https://github.com/AlexxNB/svelte-docs) [AlexxNB/svelte-docs](https://github.com/AlexxNB/svelte-docs) — Write documentation for your Svelte components.
+- [![](https://img.shields.io/github/stars/jesseskinner/svelte-react?label=⭐&logo=_&style=social)](https://github.com/jesseskinner/svelte-react) [jesseskinner/svelte-react](https://github.com/jesseskinner/svelte-react) — Use React components inside Svelte apps.
 
 ## Miscellaneous
 
-
+- [![](https://img.shields.io/github/stars/dominikg/svite?label=⭐&logo=_&style=social)](https://github.com/dominikg/svite) [dominikg/svite](https://github.com/dominikg/svite) — Svelte Integration for vite.
 
 
 
