@@ -628,11 +628,14 @@ _Internationalization / L10n / localization / translation_
 
 ### App Size
 
-
+- [![](https://img.shields.io/github/stars/halfnelson/svelte-it-will-scale?label=⭐&logo=_&style=social)](https://github.com/halfnelson/svelte-it-will-scale) [halfnelson/svelte-it-will-scale](https://github.com/halfnelson/svelte-it-will-scale) — Generate a chart showing svelte's overhead.
+- [Does Svelte Scale?](https://svelte-scaling.acmion.com/)
+- [JavaScript Frameworks, Performance Comparison 2020](https://medium.com/javascript-in-plain-english/javascript-frameworks-performance-comparison-2020-cd881ac21fce)
 
 ### Server-Side Rendering
 
 ## State Management
+
 - [![](https://img.shields.io/github/stars/dmaevsky/tinyx?label=⭐&logo=_&style=social)](https://github.com/dmaevsky/tinyx) [dmaevsky/tinyx](https://github.com/dmaevsky/tinyx) — A tiny state manager for big applications.
 
 
