@@ -190,6 +190,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 ### Buttons
 
 - [![](https://img.shields.io/github/stars/JHethDev/svelte-bouncy-btn?label=⭐&logo=_&style=social)](https://github.com/JHethDev/svelte-bouncy-btn) [JHethDev/svelte-bouncy-btn](https://github.com/JHethDev/svelte-bouncy-btn) — A bouncy button with variable fonts.
+- [![](https://img.shields.io/github/stars/micha-lmxt/descent-ripple?label=⭐&logo=_&style=social)](https://github.com/micha-lmxt/descent-ripple) [micha-lmxt/descent-ripple](https://github.com/micha-lmxt/descent-ripple) — Ripple animation for buttons.
 
 ### Collapse
 
