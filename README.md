@@ -245,6 +245,7 @@ _Display images / photos_
 - [![](https://img.shields.io/github/stars/matyunya/svelte-image?label=⭐&logo=_&style=social)](https://github.com/matyunya/svelte-image) [matyunya/svelte-image](https://github.com/matyunya/svelte-image) — Image (pre)processing with Sharp.
 - [![](https://img.shields.io/github/stars/johnwalley/compare-image-slider?label=⭐&logo=_&style=social)](https://github.com/johnwalley/compare-image-slider) [johnwalley/compare-image-slider](https://github.com/johnwalley/compare-image-slider) — Compare two images with a slider.
 - [![](https://img.shields.io/github/stars/stephane-vanraes/svelte-multitoneimage?label=⭐&logo=_&style=social)](https://github.com/stephane-vanraes/svelte-multitoneimage) [stephane-vanraes/svelte-multitoneimage](https://github.com/stephane-vanraes/svelte-multitoneimage) — A simple image renderer to apply duotone effects.
+- [GridGallery](https://svelte.dev/repl/3a1b7fae13b242fe9cd4a4f7aa092fa4?version=3.31.2) — CSS GridGallery.
 
 ### Icons
 
