@@ -660,12 +660,13 @@ _Internationalization / L10n / localization / translation_
 - [![](https://img.shields.io/github/stars/pngwn/svelte-adapter?label=⭐&logo=_&style=social)](https://github.com/pngwn/svelte-adapter) [pngwn/svelte-adapter](https://github.com/pngwn/svelte-adapter) — Use Svelte components within Vue and React applications.
 - [![](https://img.shields.io/github/stars/AlexxNB/svelte-docs?label=⭐&logo=_&style=social)](https://github.com/AlexxNB/svelte-docs) [AlexxNB/svelte-docs](https://github.com/AlexxNB/svelte-docs) — Write documentation for your Svelte components.
 - [![](https://img.shields.io/github/stars/jesseskinner/svelte-react?label=⭐&logo=_&style=social)](https://github.com/jesseskinner/svelte-react) [jesseskinner/svelte-react](https://github.com/jesseskinner/svelte-react) — Use React components inside Svelte apps.
+- [![](https://img.shields.io/github/stars/KoRnFactory/svelte-injector?label=⭐&logo=_&style=social)](https://github.com/KoRnFactory/svelte-injector) [KoRnFactory/svelte-injector](https://github.com/KoRnFactory/svelte-injector) — Use Svelte components inside other frameworks.
+
+
 
 ## Miscellaneous
 
 - [![](https://img.shields.io/github/stars/dominikg/svite?label=⭐&logo=_&style=social)](https://github.com/dominikg/svite) [dominikg/svite](https://github.com/dominikg/svite) — Svelte Integration for vite.
-
-
 
 ### Static Website Generator
 
