@@ -418,7 +418,9 @@ _Image manipulation_
 _Components to layout the app's UI_
 
 - [![](https://img.shields.io/github/stars/vaheqelyan/svelte-grid?label=⭐&logo=_&style=social)](https://github.com/vaheqelyan/svelte-grid) [vaheqelyan/svelte-grid](https://github.com/vaheqelyan/svelte-grid) — A responsive, draggable and resizable grid layout.
-- [![](https://img.shields.io/github/stars/andrelmlins/svelte-grid-responsive?label=⭐&logo=_&style=social)](https://github.com/andrelmlins/svelte-grid-responsive) [andrelmlins/svelte-grid-responsive](https://github.com/andrelmlins/svelte-grid-responsive) — Validation library.
+- [![](https://img.shields.io/github/stars/andrelmlins/svelte-grid-responsive?label=⭐&logo=_&style=social)](https://github.com/andrelmlins/svelte-grid-responsive) [andrelmlins/svelte-grid-responsive](https://github.com/andrelmlins/svelte-grid-responsive) — Responsive grid system based on Bootstrap.
+- [![](https://img.shields.io/github/stars/Readiz/svelte-split-pane?label=⭐&logo=_&style=social)](https://github.com/Readiz/svelte-split-pane) [Readiz/svelte-split-pane](https://github.com/Readiz/svelte-split-pane)
+
 
 ## UI Animation
 
