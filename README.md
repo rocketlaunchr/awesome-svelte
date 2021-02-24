@@ -147,8 +147,8 @@ _Display overlay / modal / alert / dialog / lightbox / popup_
 - [![](https://img.shields.io/github/stars/keenethics/svelte-notifications?label=⭐&logo=_&style=social)](https://github.com/keenethics/svelte-notifications) [keenethics/svelte-notifications](https://github.com/keenethics/svelte-notifications) — Simple and flexible notifications system.
 - [![](https://img.shields.io/github/stars/beyonk-adventures/svelte-notifications?label=⭐&logo=_&style=social)](https://github.com/beyonk-adventures/svelte-notifications) [beyonk-adventures/svelte-notifications](https://github.com/beyonk-adventures/svelte-notifications) — Svelte toast notifications.
 - [![](https://img.shields.io/github/stars/kevmodrome/svelte-favicon-badge?label=⭐&logo=_&style=social)](https://github.com/kevmodrome/svelte-favicon-badge) [kevmodrome/svelte-favicon-badge](https://github.com/kevmodrome/svelte-favicon-badge) — Adds a favicon and a badge.
-- [![](https://img.shields.io/github/stars/arthurclemens/dialogic?label=⭐&logo=_&style=social)](https://github.com/arthurclemens/dialogic) [arthurclemens/dialogic](https://github.com/arthurclemens/dialogic) — Dialogic: manage dialogs and notifications.
 - [![](https://img.shields.io/github/stars/zerodevx/svelte-toast?label=⭐&logo=_&style=social)](https://github.com/zerodevx/svelte-toast) [zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) — Simple elegant toast notifications.
+- [![](https://img.shields.io/github/stars/arthurclemens/dialogic?label=⭐&logo=_&style=social)](https://github.com/arthurclemens/dialogic) [arthurclemens/dialogic](https://github.com/arthurclemens/dialogic) — Dialogic: manage dialogs and notifications.
 
 ### Tooltip
 
