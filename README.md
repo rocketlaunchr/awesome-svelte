@@ -604,6 +604,7 @@ _Component properties asynchronously fetched over the network_
 
 _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 
+- [![](https://img.shields.io/github/stars/YogliB/svelte-component-template?label=⭐&logo=_&style=social)](https://github.com/YogliB/svelte-component-template) [YogliB/svelte-component-template](https://github.com/YogliB/svelte-component-template) — A base for building shareable components.
 
 
 ### Miscellaneous
