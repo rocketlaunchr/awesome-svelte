@@ -41,6 +41,7 @@
   - [Paginator](#paginator)
   - [Markdown Viewer](#markdown-viewer)
   - [Canvas](#canvas)
+  - [Social](#social)
   - [Miscellaneous](#miscellaneous)
   - [Form Components](#form-components)
     - [Date / Time picker](#date--time-picker)
@@ -183,6 +184,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 
 ### Carousel
 
+- [![](https://img.shields.io/github/stars/beyonk-adventures/svelte-carousel?label=⭐&logo=_&style=social)](https://github.com/beyonk-adventures/svelte-carousel) [beyonk-adventures/svelte-carousel](https://github.com/beyonk-adventures/svelte-carousel)
 - [![](https://img.shields.io/github/stars/Valexr/svelte-slidy?label=⭐&logo=_&style=social)](https://github.com/Valexr/svelte-slidy) [Valexr/svelte-slidy](https://github.com/Valexr/svelte-slidy)
 - [![](https://img.shields.io/github/stars/sciactive/multicarousel?label=⭐&logo=_&style=social)](https://github.com/sciactive/multicarousel) [sciactive/multicarousel](https://github.com/sciactive/multicarousel) — free multiple item JavaScript carousel.
 
@@ -214,6 +216,7 @@ _Display a tree data structure_
 
 _Ways to navigate views_
 
+- [![](https://img.shields.io/github/stars/beyonk-adventures/svelte-steps?label=⭐&logo=_&style=social)](https://github.com/beyonk-adventures/svelte-steps) [beyonk-adventures/svelte-steps](https://github.com/beyonk-adventures/svelte-steps) — Progress Steps component.
 - [![](https://img.shields.io/github/stars/dimfeld/svelte-zoomable?label=⭐&logo=_&style=social)](https://github.com/dimfeld/svelte-zoomable) [dimfeld/svelte-zoomable](https://github.com/dimfeld/svelte-zoomable) — Zoomable UI in Svelte.
 
 
@@ -254,6 +257,7 @@ _Display icons / icon set / emojis_
 - [![](https://img.shields.io/github/stars/RobBrazier/svelte-awesome?label=⭐&logo=_&style=social)](https://github.com/RobBrazier/svelte-awesome) [RobBrazier/svelte-awesome](https://github.com/RobBrazier/svelte-awesome) — Awesome SVG icon component, built with Font Awesome icons.
 - [![](https://img.shields.io/github/stars/Cweili/svelte-fa?label=⭐&logo=_&style=social)](https://github.com/Cweili/svelte-fa) [Cweili/svelte-fa](https://github.com/Cweili/svelte-fa) — Tiny FontAwesome 5.
 - [![](https://img.shields.io/github/stars/AnxiousDarkly/svelte-icons?label=⭐&logo=_&style=social)](https://github.com/AnxiousDarkly/svelte-icons) [AnxiousDarkly/svelte-icons](https://github.com/AnxiousDarkly/svelte-icons)
+- [![](https://img.shields.io/github/stars/dylanblokhuis/svelte-feather-icons?label=⭐&logo=_&style=social)](https://github.com/dylanblokhuis/svelte-feather-icons) [dylanblokhuis/svelte-feather-icons](https://github.com/dylanblokhuis/svelte-feather-icons) — Beautiful open source icons.
 - [![](https://img.shields.io/github/stars/beyonk-adventures/svelte-simple-icons?label=⭐&logo=_&style=social)](https://github.com/beyonk-adventures/svelte-simple-icons) [beyonk-adventures/svelte-simple-icons](https://github.com/beyonk-adventures/svelte-simple-icons) — Simple Brand Icons.
 
 ### Paginator
@@ -274,13 +278,19 @@ _Display parsed markdow source_
 
 _Sketch input using Canvas or SVG_
 
+### Social
 
+- [![](https://img.shields.io/github/stars/beyonk-adventures/svelte-social-auth?label=⭐&logo=_&style=social)](https://github.com/beyonk-adventures/svelte-social-auth) [beyonk-adventures/svelte-social-auth](https://github.com/beyonk-adventures/svelte-social-auth) — Google and Facebook Auth.
+- [![](https://img.shields.io/github/stars/beyonk-adventures/svelte-facebook-pixel?label=⭐&logo=_&style=social)](https://github.com/beyonk-adventures/svelte-facebook-pixel) [beyonk-adventures/svelte-facebook-pixel](https://github.com/beyonk-adventures/svelte-facebook-pixel) — Facebook pixel tracking.
+- [![](https://img.shields.io/github/stars/beyonk-adventures/svelte-trustpilot?label=⭐&logo=_&style=social)](https://github.com/beyonk-adventures/svelte-trustpilot) [beyonk-adventures/svelte-trustpilot](https://github.com/beyonk-adventures/svelte-trustpilot) — Svelte/Vanilla JS Trustpilot Component.
 
 ### Miscellaneous
 
 - [![](https://img.shields.io/github/stars/henriquehbr/svelte-typewriter?label=⭐&logo=_&style=social)](https://github.com/henriquehbr/svelte-typewriter) [henriquehbr/svelte-typewriter](https://github.com/henriquehbr/svelte-typewriter) — A simple and reusable typewriter effect.
 - [![](https://img.shields.io/github/stars/daybrush/ruler?label=⭐&logo=_&style=social)](https://github.com/daybrush/ruler) [daybrush/ruler](https://github.com/daybrush/ruler) — A Ruler component that can draw grids and scroll infinitely.
 - [![](https://img.shields.io/github/stars/scottbedard/svelte-heatmap?label=⭐&logo=_&style=social)](https://github.com/scottbedard/svelte-heatmap) [scottbedard/svelte-heatmap](https://github.com/scottbedard/svelte-heatmap) — GitHub's contribution graph.
+- [![](https://img.shields.io/github/stars/beyonk-adventures/gdpr-cookie-consent-banner?label=⭐&logo=_&style=social)](https://github.com/beyonk-adventures/gdpr-cookie-consent-banner) [beyonk-adventures/gdpr-cookie-consent-banner](https://github.com/beyonk-adventures/gdpr-cookie-consent-banner) — A GDPR compliant cookie consent banner.
+- [![](https://img.shields.io/github/stars/beyonk-adventures/svelte-google-analytics?label=⭐&logo=_&style=social)](https://github.com/beyonk-adventures/svelte-google-analytics) [beyonk-adventures/svelte-google-analytics](https://github.com/beyonk-adventures/svelte-google-analytics) — Svelte Google Analytics.
 
 
 ### Form Components
@@ -293,6 +303,7 @@ _Date picker / time picker / datetime picker / date range picker_
 
 - [![](https://img.shields.io/github/stars/6eDesign/svelte-calendar?label=⭐&logo=_&style=social)](https://github.com/6eDesign/svelte-calendar) [6eDesign/svelte-calendar](https://github.com/6eDesign/svelte-calendar) — A lightweight datepicker with neat animations and a unique UX.
 - [![](https://img.shields.io/github/stars/YogliB/svelte-fullcalendar?label=⭐&logo=_&style=social)](https://github.com/YogliB/svelte-fullcalendar) [YogliB/svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar) — A Svelte component wrapper around FullCalendar.
+- [![](https://img.shields.io/github/stars/beyonk-adventures/svelte-datepicker?label=⭐&logo=_&style=social)](https://github.com/beyonk-adventures/svelte-datepicker) [beyonk-adventures/svelte-datepicker](https://github.com/beyonk-adventures/svelte-datepicker)
 - [![](https://img.shields.io/github/stars/SharifClick/svelte-touch-datepicker?label=⭐&logo=_&style=social)](https://github.com/SharifClick/svelte-touch-datepicker) [SharifClick/svelte-touch-datepicker](https://github.com/SharifClick/svelte-touch-datepicker)
 
 #### Emoji picker
@@ -348,7 +359,7 @@ _Let the user select something (e.g. a tag) while typing_
 
 _Let the user add multiple tags in a single input_
 
-
+- [![](https://img.shields.io/github/stars/beyonk-adventures/svelte-tag-input?label=⭐&logo=_&style=social)](https://github.com/beyonk-adventures/svelte-tag-input) [beyonk-adventures/svelte-tag-input](https://github.com/beyonk-adventures/svelte-tag-input) — Lightweight tag input for Svelte and Vanilla JS.
 
 #### Autosize Input / Textarea
 
@@ -576,7 +587,7 @@ _Component properties asynchronously fetched over the network_
 
 ### CSS / Style
 
-
+- [![](https://img.shields.io/github/stars/josefaidt/svelte-themer?label=⭐&logo=_&style=social)](https://github.com/josefaidt/svelte-themer) [josefaidt/svelte-themer](https://github.com/josefaidt/svelte-themer) — A theming engine for your Svelte apps using CSS.
 
 ### HTML Template
 
@@ -666,6 +677,7 @@ _Internationalization / L10n / localization / translation_
 
 ## Miscellaneous
 
+- [![](https://img.shields.io/github/stars/DeMoorJasper/parcel-plugin-svelte?label=⭐&logo=_&style=social)](https://github.com/DeMoorJasper/parcel-plugin-svelte) [DeMoorJasper/parcel-plugin-svelte](https://github.com/DeMoorJasper/parcel-plugin-svelte) — A parcel plugin with svelte support.
 - [![](https://img.shields.io/github/stars/dominikg/svite?label=⭐&logo=_&style=social)](https://github.com/dominikg/svite) [dominikg/svite](https://github.com/dominikg/svite) — Svelte Integration for vite.
 
 ### Static Website Generator
