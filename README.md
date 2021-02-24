@@ -538,6 +538,7 @@ _Data flow / data management / data stores / components state / data flow_
 ### Form Logic
 
 - [![](https://img.shields.io/github/stars/mdauner/sveltejs-forms?label=⭐&logo=_&style=social)](https://github.com/mdauner/sveltejs-forms) [mdauner/sveltejs-forms](https://github.com/mdauner/sveltejs-forms) — Declarative forms for Svelte.
+- [![](https://img.shields.io/github/stars/noahsalvi/svelte-use-form?label=⭐&logo=_&style=social)](https://github.com/noahsalvi/svelte-use-form) [noahsalvi/svelte-use-form](https://github.com/noahsalvi/svelte-use-form) — Control and validate forms and their inputs.
 
 ### Router
 
