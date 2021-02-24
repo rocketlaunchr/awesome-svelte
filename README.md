@@ -42,6 +42,7 @@
   - [Markdown Viewer](#markdown-viewer)
   - [Canvas](#canvas)
   - [Social](#social)
+  - [DOM Manipulation](#dom-manipulation)
   - [Miscellaneous](#miscellaneous)
   - [Form Components](#form-components)
     - [Date / Time picker](#date--time-picker)
@@ -129,6 +130,7 @@
 ### Table
 
 - [![](https://img.shields.io/github/stars/dasDaniel/svelte-table?label=⭐&logo=_&style=social)](https://github.com/dasDaniel/svelte-table) [dasDaniel/svelte-table](https://github.com/dasDaniel/svelte-table) — Table implementation that allows sorting and filtering.
+- [![](https://img.shields.io/github/stars/vincjo/svelte-simple-datatables?label=⭐&logo=_&style=social)](https://github.com/vincjo/svelte-simple-datatables) [vincjo/svelte-simple-datatables](https://github.com/vincjo/svelte-simple-datatables)
 - [![](https://img.shields.io/github/stars/ivosdc/svelte-generic-crud-table?label=⭐&logo=_&style=social)](https://github.com/ivosdc/svelte-generic-crud-table) [ivosdc/svelte-generic-crud-table](https://github.com/ivosdc/svelte-generic-crud-table) — Agnostic web-component for object-arrays with CRUD functionality.
 
 
@@ -283,6 +285,11 @@ _Sketch input using Canvas or SVG_
 - [![](https://img.shields.io/github/stars/beyonk-adventures/svelte-social-auth?label=⭐&logo=_&style=social)](https://github.com/beyonk-adventures/svelte-social-auth) [beyonk-adventures/svelte-social-auth](https://github.com/beyonk-adventures/svelte-social-auth) — Google and Facebook Auth.
 - [![](https://img.shields.io/github/stars/beyonk-adventures/svelte-facebook-pixel?label=⭐&logo=_&style=social)](https://github.com/beyonk-adventures/svelte-facebook-pixel) [beyonk-adventures/svelte-facebook-pixel](https://github.com/beyonk-adventures/svelte-facebook-pixel) — Facebook pixel tracking.
 - [![](https://img.shields.io/github/stars/beyonk-adventures/svelte-trustpilot?label=⭐&logo=_&style=social)](https://github.com/beyonk-adventures/svelte-trustpilot) [beyonk-adventures/svelte-trustpilot](https://github.com/beyonk-adventures/svelte-trustpilot) — Svelte/Vanilla JS Trustpilot Component.
+
+### DOM Manipulation
+
+- [![](https://img.shields.io/github/stars/romkor/svelte-portal?label=⭐&logo=_&style=social)](https://github.com/romkor/svelte-portal) [romkor/svelte-portal](https://github.com/romkor/svelte-portal) — Render outside the DOM of parent component.
+- [![](https://img.shields.io/github/stars/nasso/svelte-teleport?label=⭐&logo=_&style=social)](https://github.com/nasso/svelte-teleport) [nasso/svelte-teleport](https://github.com/nasso/svelte-teleport) — Teleport elements across the DOM.
 
 ### Miscellaneous
 
