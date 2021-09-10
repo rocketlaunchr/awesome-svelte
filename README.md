@@ -172,6 +172,7 @@ _Fixed headers / scroll-up headers / sticky elements_
 
 ### Tabs
 
+[Tabs Component](https://svelte.dev/repl/7373880df7f64107b86f9e86c05f38b4?version=3.5.1) - Tabs Component example.
 
 
 ### Loader
