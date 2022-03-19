@@ -74,6 +74,7 @@
     - [Material Design](#material-design)
     - [Carbon](#carbon)
     - [Bootstrap](#bootstrap)
+    - [AgnosticUI](#agnosticui)
   - [Mobile](#mobile)
   - [Component Collections](#component-collections)
 - [UI Utilities](#ui-utilities)
@@ -464,8 +465,9 @@ _Set of components + responsive layout system_
 
 - [![](https://img.shields.io/github/stars/bestguy/sveltestrap?label=⭐&logo=_&style=social)](https://github.com/bestguy/sveltestrap) [bestguy/sveltestrap](https://github.com/bestguy/sveltestrap) — Bootstrap 4 components for Svelte.
 
+#### AgnosticUI
 
-
+- [![](https://img.shields.io/github/stars/agnosticui/agnosticui?label=⭐&logo=_&style=social)](https://github.com/agnosticui/angosticui) [agnosticui](https://github.com/agnosticui/agnosticui) — Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
 
 ### Mobile
 
