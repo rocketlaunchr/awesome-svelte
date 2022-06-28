@@ -148,6 +148,7 @@ _Display overlay / modal / alert / dialog / lightbox / popup_
 
 ### Notification
 
+- [![](https://img.shields.io/github/stars/kbrgl/svelte-french-toast?label=⭐&logo=_&style=social)](https://github.com/kbrgl/svelte-french-toast) [kbrgl/svelte-french-toast](https://github.com/kbrgl/svelte-french-toast) - Svelte French Toast: Buttery smooth toast notifications for Svelte, inspired by React Hot Toast.
 - [![](https://img.shields.io/github/stars/keenethics/svelte-notifications?label=⭐&logo=_&style=social)](https://github.com/keenethics/svelte-notifications) [keenethics/svelte-notifications](https://github.com/keenethics/svelte-notifications) — Simple and flexible notifications system.
 - [![](https://img.shields.io/github/stars/beyonk-adventures/svelte-notifications?label=⭐&logo=_&style=social)](https://github.com/beyonk-adventures/svelte-notifications) [beyonk-adventures/svelte-notifications](https://github.com/beyonk-adventures/svelte-notifications) — Svelte toast notifications.
 - [![](https://img.shields.io/github/stars/kevmodrome/svelte-favicon-badge?label=⭐&logo=_&style=social)](https://github.com/kevmodrome/svelte-favicon-badge) [kevmodrome/svelte-favicon-badge](https://github.com/kevmodrome/svelte-favicon-badge) — Adds a favicon and a badge.
