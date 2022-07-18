@@ -697,7 +697,7 @@ _Internationalization / L10n / localization / translation_
 
 ### Static Website Generator
 
-
+- [![](https://img.shields.io/github/stars/YeungKC/Hakuba?label=⭐&logo=_&style=social)](https://github.com/YeungKC/Hakuba) [Hakuba](https://github.com/YeungKC/Hakuba) - A fast blog starter driven by Github discussions for all data.
 
 ## Cloud Solutions
 
