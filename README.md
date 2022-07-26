@@ -605,7 +605,7 @@ _Component properties asynchronously fetched over the network_
 
 ### HTML Template
 
-
+- [![](https://img.shields.io/github/stars/l-portet/svelte-switch-case?label=⭐&logo=_&style=social)](https://github.com/l-portet/svelte-switch-case) [l-portet/svelte-switch-case](https://github.com/l-portet/svelte-switch-case) — Switch case syntax for Svelte.
 
 ### Isomorphic Apps
 
