@@ -666,6 +666,7 @@ _Internationalization / L10n / localization / translation_
 ## State Management
 
 - [![](https://img.shields.io/github/stars/dmaevsky/tinyx?label=⭐&logo=_&style=social)](https://github.com/dmaevsky/tinyx) [dmaevsky/tinyx](https://github.com/dmaevsky/tinyx) — A tiny state manager for big applications.
+- [![](https://img.shields.io/github/stars/thegenius/svelte-domain?label=⭐&logo=_&style=social)](https://https://github.com/thegenius/svelte-domain) [thegenius/svelte-domain](https://github.com/thegenius/svelte-domain) — An elegant small state manager for svelte.
 
 
 ## Dev Tools
