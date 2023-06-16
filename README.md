@@ -75,6 +75,7 @@
     - [Carbon](#carbon)
     - [Bootstrap](#bootstrap)
     - [AgnosticUI](#agnosticui)
+    - [YeSvelte](#yesvelte)
   - [Mobile](#mobile)
   - [Component Collections](#component-collections)
 - [UI Utilities](#ui-utilities)
@@ -470,6 +471,11 @@ _Set of components + responsive layout system_
 #### AgnosticUI
 
 - [![](https://img.shields.io/github/stars/agnosticui/agnosticui?label=⭐&logo=_&style=social)](https://github.com/agnosticui/angosticui) [agnosticui](https://github.com/agnosticui/agnosticui) — Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
+
+#### YeSvelte
+
+- [![](https://img.shields.io/github/stars/yesvelte/yesvelte?label=⭐&logo=_&style=social)](https://github.com/yesvelte/yesvelte) [yesvelte](https://github.com/yesvelte/yesvelte) — YeSvelte is flexible Svelte UI component library built on top of Tabler css.
+
 
 ### Mobile
 
