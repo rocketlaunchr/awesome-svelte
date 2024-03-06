@@ -139,6 +139,7 @@
 
 - [![](https://img.shields.io/github/stars/Skayo/svelte-tiny-virtual-list?label=⭐&logo=_&style=social)](https://github.com/Skayo/svelte-tiny-virtual-list) [Skayo/svelte-tiny-virtual-list](https://github.com/Skayo/svelte-tiny-virtual-list) — A tiny but mighty list virtualization library, with zero dependencies.
 - [![](https://img.shields.io/github/stars/Skayo/svelte-infinite-loading?label=⭐&logo=_&style=social)](https://github.com/Skayo/svelte-infinite-loading) [Skayo/svelte-infinite-loading](https://github.com/Skayo/svelte-infinite-loading) — This is heavily inspired by [vue-infinite-loading](https://peachscript.github.io/vue-infinite-loading/).
+- [![](https://img.shields.io/github/stars/ndom91/svelte-infinite?label=⭐&logo=_&style=social)](https://github.com/ndom91/svelte-infinite) [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite) — Infinite Scroller for Svelte 5.
 
 ### Overlay
 
