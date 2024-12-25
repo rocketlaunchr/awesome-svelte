@@ -451,6 +451,10 @@ _Set of components + responsive layout system_
 
 - [![](https://img.shields.io/github/stars/illright/attractions?label=⭐&logo=_&style=social)](https://github.com/illright/attractions) [illright/attractions](https://github.com/illright/attractions) — A pretty cool UI kit for Svelte.
 
+#### Flowbite
+
+- [![](https://img.shields.io/github/stars/themesberg/flowbite-svelte?label=⭐&logo=_&style=social)](https://github.com/themesberg/flowbite-svelte) [themesberg/flowbite-svelte](https://github.com/themesberg/flowbite-svelte) - Open-source Svelte UI components built with Tailwind CSS and Flowbite.
+- [![](https://img.shields.io/github/stars/themesberg/flowbite?label=⭐&logo=_&style=social)](https://github.com/themesberg/flowbite) [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source vanilla JS UI components built with Tailwind CSS.
 
 #### Material Design
 
