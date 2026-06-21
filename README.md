@@ -640,6 +640,10 @@ _Internationalization / L10n / localization / translation_
 
 ### Integrations with Third Party Services
 
+#### CMS / Headless Backend
+
+- [UnfoldCMS](https://unfoldcms.com) — Self-hosted headless CMS with a Laravel 12 backend, REST API v1 (42 endpoints), HMAC webhooks, and [SvelteKit integration guide](https://unfoldcms.com/unfoldcms-sveltekit-integration). ([GitHub](https://github.com/hpakdaman/unfoldcms))
+
 
 
 ## Performance
