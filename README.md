@@ -554,6 +554,7 @@ _Data flow / data management / data stores / components state / data flow_
 
 - [![](https://img.shields.io/github/stars/mdauner/sveltejs-forms?label=⭐&logo=_&style=social)](https://github.com/mdauner/sveltejs-forms) [mdauner/sveltejs-forms](https://github.com/mdauner/sveltejs-forms) — Declarative forms for Svelte.
 - [![](https://img.shields.io/github/stars/noahsalvi/svelte-use-form?label=⭐&logo=_&style=social)](https://github.com/noahsalvi/svelte-use-form) [noahsalvi/svelte-use-form](https://github.com/noahsalvi/svelte-use-form) — Control and validate forms and their inputs.
+- [![](https://img.shields.io/github/stars/piying-org/piying-view?label=⭐&logo=_&style=social)](https://github.com/piying-org/piying-view)[piying-view](https://github.com/piying-org/piying-view) - Frontend Form Solution; strongly typed;
 
 ### Router
 
