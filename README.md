@@ -278,6 +278,7 @@ _Display a control element to paginate_
 
 _Display parsed markdow source_
 
+- [![](https://img.shields.io/github/stars/Simon-He95/markstream-vue?label=⭐&logo=_&style=social)](https://github.com/Simon-He95/markstream-vue) [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue) — Svelte 5 streaming Markdown renderer for AI chat with Mermaid, KaTeX, Monaco-powered code blocks, safe HTML, and SSR.
 
 
 ### Canvas
