@@ -345,6 +345,7 @@ https://github.com/pavish/select-madu) [pavish/select-madu](https://github.com/p
 #### Color Picker
 
 - [![](https://img.shields.io/github/stars/efeskucuk/svelte-color-picker?label=⭐&logo=_&style=social)](https://github.com/efeskucuk/svelte-color-picker) [efeskucuk/svelte-color-picker](https://github.com/efeskucuk/svelte-color-picker)
+- [![](https://img.shields.io/github/stars/probablykasper/color-picker-svelte?label=⭐&logo=_&style=social)](https://github.com/probablykasper/color-picker-svelte) [probablykasper/color-picker-svelte](https://github.com/probablykasper/color-picker-svelte) - Modular, nice looking color picker.
 
 #### Toggle
 
