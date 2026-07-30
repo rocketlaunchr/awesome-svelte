@@ -133,6 +133,7 @@
 - [![](https://img.shields.io/github/stars/dasDaniel/svelte-table?label=⭐&logo=_&style=social)](https://github.com/dasDaniel/svelte-table) [dasDaniel/svelte-table](https://github.com/dasDaniel/svelte-table) — Table implementation that allows sorting and filtering.
 - [![](https://img.shields.io/github/stars/vincjo/svelte-simple-datatables?label=⭐&logo=_&style=social)](https://github.com/vincjo/svelte-simple-datatables) [vincjo/svelte-simple-datatables](https://github.com/vincjo/svelte-simple-datatables)
 - [![](https://img.shields.io/github/stars/ivosdc/svelte-generic-crud-table?label=⭐&logo=_&style=social)](https://github.com/ivosdc/svelte-generic-crud-table) [ivosdc/svelte-generic-crud-table](https://github.com/ivosdc/svelte-generic-crud-table) — Agnostic web-component for object-arrays with CRUD functionality.
+- [SvGrid](https://svgrid.com) - A high-performance, native Svelte 5 data grid built with runes and snippets. Features a headless core engine alongside a drop-in virtualized UI component layer
 
 
 ### Infinite Scroll
